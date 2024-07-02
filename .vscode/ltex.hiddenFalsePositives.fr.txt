@@ -1,0 +1,7 @@
+{"rule":"APOS_TYP","sentence":"^\\QQuand dis t'on qu'une fonction \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q est injective ?\\E$"}
+{"rule":"APOS_TYP","sentence":"^\\QQuand dis t'on qu'une fonction \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q est surjective ?\\E$"}
+{"rule":"APOS_TYP","sentence":"^\\QQuand dis t'on qu'une fonction \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q est bijective ?\\E$"}
+{"rule":"APOS_TYP","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q est une bijection de \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q vers \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q si tous les éléments de l'ensemble d'arriver \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q a exactement un antécédent dans \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q par \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, ce qui s'écrit formellement :\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QDenotational sementics\\E$"}
+{"rule":"APOS_TYP","sentence":"^\\QQu'est-ce que l'on entend par Denotational sementics ?\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QClonez et installez le fork de mdanki :\\E$"}
