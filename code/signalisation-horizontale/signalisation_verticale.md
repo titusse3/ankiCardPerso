@@ -88,7 +88,7 @@ Que signifie ce panneau ?
 
 ![Panneau](3.png)
 
-% 
+%
 
 Il signifie que vous bénéficierez de la priorité de passage aux prochaines 
 intersections.
@@ -107,7 +107,7 @@ Toutes agglomérations Parisienne sont limité à __30 km/h__.
 Sur une route séparée par une ligne médiane, lorsqu’il y a deux voies de 
 circulation dans le même sens, Quelle est la limitation ?
 
-% 
+%
 
 Dans ce cas la limitation est de __90  km/h__.
 
@@ -126,7 +126,7 @@ Que signifie ce panneau ?
 
 ![Panneau](4.png)
 
-% 
+%
 
 Il s'agit d'un panneau de céder le passage.
 
@@ -150,4 +150,4 @@ Que signifie ce panneau ?
 %
 
 Il s'agit d'un panneau indiquant que vous avez la priorité sur les 
-interseections.         
+intersections.         
